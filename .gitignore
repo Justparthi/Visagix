@@ -1,0 +1,120 @@
+# -----------------------------------------
+# 🚀 General System & Editor Files
+# -----------------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.cache
+*.lock
+*.env
+*.env.local
+
+# -----------------------------------------
+# 📱 React Native
+# -----------------------------------------
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro bundler cache
+metro-cache/
+
+# React Native Build files
+android/app/build/
+ios/Pods/
+ios/build/
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Gradle
+.gradle/
+*.iml
+
+# React Native Debug Files
+debug.keystore
+*.apk
+*.aab
+*.ipa
+
+# -----------------------------------------
+# 🐍 Python
+# -----------------------------------------
+# Virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Django & Flask
+db.sqlite3
+instance/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Migrations
+*/migrations/*.py
+*/migrations/*.pyc
+
+# VSCode & PyCharm
+.vscode/
+.idea/
+
+# -----------------------------------------
+# 🛠️ Go (Golang)
+# -----------------------------------------
+# Binaries and build artifacts
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Go Modules
+go.sum
+vendor/
+
+# Go Build cache & compiled objects
+/bin/
+/obj/
+/pkg/
+/build/
+*.a
+*.o
+
+# -----------------------------------------
+# 🐳 Docker
+# -----------------------------------------
+docker-compose.override.yml
+*.tar
