@@ -113,8 +113,11 @@ vendor/
 *.a
 *.o
 
+
 # -----------------------------------------
 # 🐳 Docker
 # -----------------------------------------
 docker-compose.override.yml
 *.tar
+
+serviceAccountKey.json
