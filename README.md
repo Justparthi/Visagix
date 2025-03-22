@@ -1,1 +1,1 @@
-"# Visagix" 
+VISAGIX MOBILE APPLICATION
