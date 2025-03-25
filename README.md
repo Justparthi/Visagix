@@ -1,4 +1,3 @@
 VISAGIX MOBILE APPLICATION
 
-
-ILL CHANGE THIS NEXT DAY 
+i think ill do this later 
